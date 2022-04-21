@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Hangman_Game</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="GameImages\0.jpg" />
+    <None Remove="GameImages\1.jpg" />
+    <None Remove="GameImages\10.jpg" />
+    <None Remove="GameImages\2.jpg" />
+    <None Remove="GameImages\3.jpg" />
+    <None Remove="GameImages\4.jpg" />
+    <None Remove="GameImages\5.jpg" />
+    <None Remove="GameImages\6.jpg" />
+    <None Remove="GameImages\7.jpg" />
+    <None Remove="GameImages\8.jpg" />
+    <None Remove="GameImages\9.jpg" />
+    <None Remove="Images\0.png" />
+    <None Remove="Images\1.jpg" />
+    <None Remove="Images\1.png" />
+    <None Remove="Images\2.jpg" />
+    <None Remove="Images\2.png" />
+    <None Remove="Images\3.jpg" />
+    <None Remove="Images\3.png" />
+    <None Remove="Images\4.jpg" />
+    <None Remove="Images\4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MvvmLightLibs" Version="5.4.1.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="GameImages\0.jpg" />
+    <Resource Include="GameImages\1.jpg" />
+    <Resource Include="GameImages\10.jpg" />
+    <Resource Include="GameImages\2.jpg" />
+    <Resource Include="GameImages\3.jpg" />
+    <Resource Include="GameImages\4.jpg" />
+    <Resource Include="GameImages\5.jpg" />
+    <Resource Include="GameImages\6.jpg" />
+    <Resource Include="GameImages\7.jpg" />
+    <Resource Include="GameImages\8.jpg" />
+    <Resource Include="GameImages\9.jpg" />
+    <Resource Include="Images\0.png" />
+    <Resource Include="Images\1.png" />
+    <Resource Include="Images\2.png" />
+    <Resource Include="Images\3.png" />
+    <Resource Include="Images\4.png" />
+  </ItemGroup>
+
+</Project>

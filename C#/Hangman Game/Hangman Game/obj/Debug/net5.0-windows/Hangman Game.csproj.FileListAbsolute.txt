@@ -1,0 +1,40 @@
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\Hangman Game.exe
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\Hangman Game.deps.json
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\Hangman Game.runtimeconfig.json
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\Hangman Game.runtimeconfig.dev.json
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\Hangman Game.dll
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\ref\Hangman Game.dll
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\Hangman Game.pdb
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\App.g.cs
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\Hangman Game_MarkupCompile.cache
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\Hangman Game_MarkupCompile.lref
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\Hangman Game.g.resources
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\Hangman Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\Hangman Game.AssemblyInfoInputs.cache
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\Hangman Game.AssemblyInfo.cs
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\Hangman Game.csproj.CoreCompileInputs.cache
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\Hangman Game.dll
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\ref\Hangman Game.dll
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\Hangman Game.pdb
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\Hangman Game.genruntimeconfig.cache
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\Hangman Game.csproj.CopyComplete
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\View\LoginScreen.g.cs
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\View\RegisterScreen.g.cs
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\View\LoginScreen.baml
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\View\RegisterScreen.baml
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\View\MainWindow.baml
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\View\About.g.cs
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\View\About.baml
+D:\Hangman Game\Hangman Game\obj\Debug\net5.0-windows\Hangman Game.csproj.AssemblyReference.cache
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\GalaSoft.MvvmLight.Extras.dll
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\GalaSoft.MvvmLight.Platform.dll
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\GalaSoft.MvvmLight.dll
+D:\Hangman Game\Hangman Game\bin\Debug\net5.0-windows\System.Windows.Interactivity.dll

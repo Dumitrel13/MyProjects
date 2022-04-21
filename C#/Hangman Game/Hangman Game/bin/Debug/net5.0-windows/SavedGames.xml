@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Games>
+  <Game>
+    <Username>user1</Username>
+    <Avatar>2.png</Avatar>
+    <ID>2</ID>
+    <Time>30</Time>
+    <Mistakes>7</Mistakes>
+    <Categories>Mountains </Categories>
+    <Level>1</Level>
+    <Word>Lhotse</Word>
+    <CurrentWordState> L _ O _ _ _ </CurrentWordState>
+  </Game>
+  <Game>
+    <Username>user</Username>
+    <Avatar>0.png</Avatar>
+    <ID>1</ID>
+    <Time>34</Time>
+    <Mistakes>4</Mistakes>
+    <Categories>Mountains Rivers </Categories>
+    <Level>1</Level>
+    <Word>Kangchenjunga</Word>
+    <CurrentWordState> _ _ _ G _ H _ _ _ _ _ G _ </CurrentWordState>
+  </Game>
+</Games>

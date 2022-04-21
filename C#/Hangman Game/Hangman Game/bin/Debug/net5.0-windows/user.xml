@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Users>
+    <User id="1">
+      <Username>user</Username>
+      <Password>1</Password>
+      <Avatar>0.png</Avatar>
+    </User>
+    <User id="2">
+      <Username>user1</Username>
+      <Password>123</Password>
+      <Avatar>2.png</Avatar>
+    </User>
+    <User id="3">
+      <Username>user2</Username>
+      <Password>453</Password>
+      <Avatar>3.png</Avatar>
+    </User>
+  </Users>
+</UserModel>
